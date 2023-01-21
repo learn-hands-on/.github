@@ -1,4 +1,4 @@
-![banner](./learn-hands-on-banner.png)
+![Imgur](https://i.imgur.com/xeED8gg.png)
 
 ## Get Involved
 
