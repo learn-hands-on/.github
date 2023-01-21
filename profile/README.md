@@ -1,4 +1,4 @@
-![banner](../resources/learn-hands-on-banner.png)
+![banner](./learn-hands-on-banner.png)
 
 ## Get Involved
 
